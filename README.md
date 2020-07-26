@@ -6,3 +6,5 @@ Modelo ncapas.
 Se trabajo con oracle sql.
 
 Proyecto en Actualización.
+User: smanguera /// admin
+Pass: roma.2345 //// admin
